@@ -28,7 +28,7 @@ Currently studying at University of Pembangunan Nasional "Veteran" Yogyakarta, b
 ### Let's connect!
 <p>
     <a href="linkedin.com/in/niken-riri-dwi-astuti-b8a9a2202" target="blank"><img src="https://img.shields.io/badge/Niken_Riri-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://instagram.com/@nikenriri__" target="blank"><img src="https://img.shields.io/badge/Niken_Riri-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/nikenriri__" target="blank"><img src="https://img.shields.io/badge/Niken_Riri-30302f?style=flat&logo=instagram" /></a>
     <a href="https://tw.bitwiseee.com" target="blank"><img src="https://img.shields.io/badge/@bitwiseee_-30302f?style=flat&logo=twitter" /></a>
 </p>
 
