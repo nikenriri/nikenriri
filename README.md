@@ -16,7 +16,7 @@ Currently studying at University of Pembangunan Nasional "Veteran" Yogyakarta, b
     - 👯 I’m looking to collaborate on Frontend Web Development, Cloud Computing. </br>
     - 🤔 I’m looking for help with master of programming hehe :D </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:nikenriri05@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:nikenriri05@gmail.com">email me!</a>  </br>
     - 😄 Pronouns: She/Her </br>
     - ⚡ Fun fact: ... </br>
 </details>
