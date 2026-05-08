@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Niken Riri!
-Currently studying at University of Pembangunan Nasional "Veteran" Yogyakarta, but I love learn new thing in programming such as Javascript, Cloud Computing, HTML&CSS, Python.  
+Freshgraduate from University of Pembangunan Nasional "Veteran" Yogyakarta, and I love learn new thing in programming such as Javascript, Cloud Computing, HTML&CSS, Python. Currently still learning about QA Engineer 
 
 ### Tools:
 <p>
